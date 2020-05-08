@@ -1,0 +1,211 @@
+#para1 {
+    margin-left: 20%;
+    margin-top: -4%;
+    color: white;
+}
+
+button {
+    color: green;
+    border-color: green;
+    text-align: justify;
+    border-radius: 0px;
+    border-top: 0px;
+    ;
+}
+
+ul li a {
+    color: black;
+}
+
+ul li a:hover {
+    display: flexbox;
+    background-color: #1E90FF;
+    border-radius: 5px;
+}
+
+marquee {
+    margin-top: 2%;
+    display: block;
+    background-color: #1E90FF;
+    text-align: center;
+    margin-left: 8%;
+}
+
+#intro {
+    color: #316DC3;
+    text-align: center;
+}
+
+#para2 {
+    font-size: 18px;
+    font-family: serif;
+}
+
+#para3 {
+    font-size: 18px;
+    font-family: serif;
+}
+
+#para4 {
+    font-size: 18px;
+    font-family: serif;
+}
+
+.dastar {
+    margin-top: -10%;
+}
+
+.family {
+    margin-top: -10%;
+}
+
+.medical {
+    margin-top: -10%;
+}
+
+.edu {
+    margin-top: -10%;
+}
+
+h5 {
+    font-family: sans-serif;
+}
+
+.dastar {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    margin-left: 5px;
+}
+
+.family {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    margin-left: 15px;
+}
+
+.edu {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    margin-left: 25px;
+}
+
+.medical {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    margin-left: 15px;
+}
+
+.sadqah {
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 100%;
+}
+
+.welfare {
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 100%;
+}
+
+.med {
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 15px;
+    width: 30%;
+    width: 100%;
+}
+
+.dastkhawan {
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 100%;
+}
+
+.roplant {
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 100%;
+}
+
+.ed {
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 100%;
+}
+
+#whatarewedo {
+    background-color: whitesmoke;
+    padding-bottom: 20px;
+}
+
+.hepatitus {
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+    text-align: center;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    width: 100%;
+}
+
+.houses {
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+    text-align: center;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    width: 100%;
+}
+
+.literacy {
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+    text-align: center;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    width: 100%;
+}
+
+.tharparkar {
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+    text-align: center;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    width: 100%;
+}
+
+.gallery ul li img {
+    margin: 2%;
+    display: block;
+    position: relative;
+}
+
+.gallery {
+    margin-left: -160px;
+}
+
+.usefulcontacts {
+    margin: 0px 50px;
+}
+
+.footerions:hover {
+    height: 35px;
+    width: 29px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: darkgrey;
+    text-align: center;
+}
+
+#useful {
+    position: relative;
+    margin-left: 50%;
+    margin-top: -27%;
+}
